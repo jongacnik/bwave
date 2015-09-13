@@ -1,0 +1,27 @@
+{
+  "name": "bwave",
+  "version": "0.0.1",
+  "description": "command line notes",
+  "bin": "bin/bwave.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amongiants/bwave.git"
+  },
+  "keywords": [
+    "cli",
+    "note"
+  ],
+  "dependencies": {
+    "ansidown": "0.0.1",
+    "minimist": "1.1.0"
+  },
+  "author": "Jon Gacnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amongiants/bwave/issues"
+  },
+  "homepage": "https://github.com/amongiants/bwave"
+}
